@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-
+ALLOW_MISSING_DEPENDENCIES=true
 # This variable is set first, so it can be overridden
 # by BoardConfigVendor.mk
 -include device/samsung/lt01-common/BoardCommonConfig.mk
